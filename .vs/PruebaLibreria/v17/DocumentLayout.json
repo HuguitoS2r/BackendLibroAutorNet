@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\services\\libroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\entities\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\interfaces\\ilibroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\dtos\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\dtos\\autordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|c:\\users\\yoroc\\documents\\prueba\\pruebalibreria\\pruebalibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33548C19-B283-4946-B32E-A06A6E322455}|PruebaLibreria\\PruebaLibreria.csproj|solutionrelative:pruebalibreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f6c90d9a-1aa8-32e5-baac-467b7262213c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroService.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Services\\LibroService.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Services\\LibroService.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Services\\LibroService.cs",
+              "RelativeToolTip": "PruebaLibreria\\Services\\LibroService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:52:29.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibroService.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Interfaces\\ILibroService.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Interfaces\\ILibroService.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Interfaces\\ILibroService.cs",
+              "RelativeToolTip": "PruebaLibreria\\Interfaces\\ILibroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:52:11.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Interfaces\\IAutorService.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Interfaces\\IAutorService.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Interfaces\\IAutorService.cs",
+              "RelativeToolTip": "PruebaLibreria\\Interfaces\\IAutorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:58.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Entities\\Libro.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Entities\\Libro.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Entities\\Libro.cs",
+              "RelativeToolTip": "PruebaLibreria\\Entities\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Entities\\Autor.cs",
+              "RelativeToolTip": "PruebaLibreria\\Entities\\Autor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroDto.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\DTOs\\LibroDto.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\DTOs\\LibroDto.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\DTOs\\LibroDto.cs",
+              "RelativeToolTip": "PruebaLibreria\\DTOs\\LibroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorDto.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\DTOs\\AutorDto.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\DTOs\\AutorDto.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\DTOs\\AutorDto.cs",
+              "RelativeToolTip": "PruebaLibreria\\DTOs\\AutorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:43.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "PruebaLibreria\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:33.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "PruebaLibreria\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PruebaLibreria\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:51:42.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Services\\AutorService.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Services\\AutorService.cs",
+              "RelativeToolTip": "PruebaLibreria\\Services\\AutorService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:23:29.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaLibreria\\Program.cs",
+              "ToolTip": "C:\\Users\\yoroc\\Documents\\Prueba\\PruebaLibreria\\PruebaLibreria\\Program.cs",
+              "RelativeToolTip": "PruebaLibreria\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:07:20.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
